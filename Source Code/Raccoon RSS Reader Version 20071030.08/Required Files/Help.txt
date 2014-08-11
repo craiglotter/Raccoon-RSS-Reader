@@ -1,0 +1,20 @@
+Raccoon RSS Reader is a simple RSS Feed Reader which allows the user to list a number of RSS feeds they wish to track. The RSS Feed XML is downloaded by the application and converted to an HTML format which is then displayed using its local CSS stylesheet (which can be edited by the user as required). The RSS feeds have a 30 minute cache.
+
+To use the RSS Reader, you will need to add feeds to the feed list. You will see that the program installs with a few example feeds, just to get you going. You can obviously edit this list. To display a feed, simply click on the relevant feed from the feed list pane on the left of the application.
+
+The Clear Cache menu item forces the removal of all feed cache files. Once the cache files have been removed, Raccoon RSS Reader reloads the last selected feed.
+
+The Edit RSS Feeds menu item allows you to edit the feeds kept in Raccoon RSS Reader. The feeds list is in fact a plain text file, listing feeds in the following format:
+
+#DisplayName#|#FeedURL#|#SaveFilePrefix#
+
+where DisplayName is the text displayed in Raccoon RSS Reader's feed list pane on the left. FeedURL is the HTTP URL which is used to access the RSS feed from. SaveFilePrefix is a unique identifier used to prefix cached files with.
+
+The Edit CSS Stylesheet menu item allows you to edit the CSS stylesheet file that is used by the application to display the feeds. You will need to be familiar with CSS (Cascading Style Sheet) to do this.
+
+The Help menu item displays this help file.
+
+The About menu item simply displays more information about Raccoon RSS Reader. 
+
+
+-- Last Updated: 13/09/2007 --

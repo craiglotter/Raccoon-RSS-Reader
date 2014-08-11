@@ -1,0 +1,13 @@
+body {
+font-family: verdana;
+font-size: 10pt;
+text-decoration: none;
+color: #88878D; 
+font-style: normal; 
+margin: 15px
+}
+
+.channel_title{color: #000000; font-size: 16pt; font-weight: bold}
+.item_title{color: #000000; font-size: 10pt; font-weight: bold}
+.item_description{color:#000000;}
+.item_pubdate{color:#000000; font-size: 8pt; font-style: italic}

@@ -1,0 +1,3 @@
+APPLICATION_NAME=Raccoon RSS Reader
+EXECUTABLE=Raccoon RSS Reader.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Raccoon RSS Reader/manifest.xml
